@@ -340,6 +340,7 @@ $('a[href^="#"]').click(function(){
     
 });
     </script>
+    <?php $this->endBody() ?>
   </body>
 </html>
 
